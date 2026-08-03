@@ -1,15 +1,23 @@
-# Spotify-UI-Clone
-A responsive Spotify UI clone built using pure HTML and CSS.
-This project is a front-end clone of the Spotify web interface created using only HTML and CSS. It focuses on layout design, responsiveness, and modern UI styling without using JavaScript or frameworks. The goal of this project is to practice frontend design skills and understand real-world web layouts.
-Features:
- # Spotify-inspired UI design
- # Responsive layout for different screen sizes
- # Clean and structured HTML & CSS
- # Beginner-friendly project
+# Spotify UI Clone
 
-Tech Stack:
-  # HTML5
-  # CSS3
+A responsive clone of the Spotify web interface, built using pure HTML and CSS. This project focuses on layout design and responsiveness — no JavaScript is used.
 
-Use Case:
-=> Perfect for beginners learning frontend development and UI design.
+## Features
+
+- Spotify-inspired UI layout
+- Fully responsive design across screen sizes
+- Built with plain HTML and CSS only
+
+## Tech Stack
+
+HTML5, CSS3
+
+## Getting Started
+
+No installation required.
+
+```bash
+git clone https://github.com/Akashi-01/Spotify-UI-Clone.git
+```
+
+Open `index.html` in your browser to view the layout.
